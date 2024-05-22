@@ -1,0 +1,14 @@
+C:\Users\Ana Paula\OneDrive - Universidad Rafael Landivar\Documentos\Proyecto 2 pensamiento computacional\obj\Debug\net8.0\Proyecto 2 pensamiento computacional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana Paula\OneDrive - Universidad Rafael Landivar\Documentos\Proyecto 2 pensamiento computacional\obj\Debug\net8.0\Proyecto 2 pensamiento computacional.AssemblyInfoInputs.cache
+C:\Users\Ana Paula\OneDrive - Universidad Rafael Landivar\Documentos\Proyecto 2 pensamiento computacional\obj\Debug\net8.0\Proyecto 2 pensamiento computacional.AssemblyInfo.cs
+C:\Users\Ana Paula\OneDrive - Universidad Rafael Landivar\Documentos\Proyecto 2 pensamiento computacional\obj\Debug\net8.0\Proyecto 2 pensamiento computacional.csproj.CoreCompileInputs.cache
+C:\Users\Ana Paula\OneDrive - Universidad Rafael Landivar\Documentos\Proyecto 2 pensamiento computacional\bin\Debug\net8.0\Proyecto 2 pensamiento computacional.exe
+C:\Users\Ana Paula\OneDrive - Universidad Rafael Landivar\Documentos\Proyecto 2 pensamiento computacional\bin\Debug\net8.0\Proyecto 2 pensamiento computacional.deps.json
+C:\Users\Ana Paula\OneDrive - Universidad Rafael Landivar\Documentos\Proyecto 2 pensamiento computacional\bin\Debug\net8.0\Proyecto 2 pensamiento computacional.runtimeconfig.json
+C:\Users\Ana Paula\OneDrive - Universidad Rafael Landivar\Documentos\Proyecto 2 pensamiento computacional\bin\Debug\net8.0\Proyecto 2 pensamiento computacional.dll
+C:\Users\Ana Paula\OneDrive - Universidad Rafael Landivar\Documentos\Proyecto 2 pensamiento computacional\bin\Debug\net8.0\Proyecto 2 pensamiento computacional.pdb
+C:\Users\Ana Paula\OneDrive - Universidad Rafael Landivar\Documentos\Proyecto 2 pensamiento computacional\obj\Debug\net8.0\Proyecto 2 pensamiento computacional.dll
+C:\Users\Ana Paula\OneDrive - Universidad Rafael Landivar\Documentos\Proyecto 2 pensamiento computacional\obj\Debug\net8.0\refint\Proyecto 2 pensamiento computacional.dll
+C:\Users\Ana Paula\OneDrive - Universidad Rafael Landivar\Documentos\Proyecto 2 pensamiento computacional\obj\Debug\net8.0\Proyecto 2 pensamiento computacional.pdb
+C:\Users\Ana Paula\OneDrive - Universidad Rafael Landivar\Documentos\Proyecto 2 pensamiento computacional\obj\Debug\net8.0\Proyecto 2 pensamiento computacional.genruntimeconfig.cache
+C:\Users\Ana Paula\OneDrive - Universidad Rafael Landivar\Documentos\Proyecto 2 pensamiento computacional\obj\Debug\net8.0\ref\Proyecto 2 pensamiento computacional.dll
